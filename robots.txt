@@ -1,5 +1,6 @@
 # robotstxt.org/
 
-User-agent: *
+User-agent: * 
 Allow:/
 Allow:index.html
+site//hptts/*
